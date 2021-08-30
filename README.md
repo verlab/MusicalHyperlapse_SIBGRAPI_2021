@@ -1,3 +1,3 @@
-# MusicalHyperlapse_sibgrapi_2021
+# MusicalHyperlapse_SIBGRAPI_2021
 
 Coming soon...
