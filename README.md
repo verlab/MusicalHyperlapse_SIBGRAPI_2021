@@ -4,7 +4,7 @@
 
 For copyright reasons, we cannot directly make available all the videos and songs, but we provide links to some of them here. For more information, please send email to dioognei@gmail.com.
 
-### 1. Videos
+### Videos
 
 Berkeley1 - Self-acquisition (Not available online) 
 
@@ -22,7 +22,7 @@ StockHolm1 - Video from Youtube: https://youtu.be/ArW2rozLMAo (00:00 to 24:58)
 
 Walking4 - Same Walking4 video used by [2]
 
-### 2. Songs
+### Songs
 
 In The End (Linkin Park) - https://youtu.be/eVTXPUF4Oz4
 
