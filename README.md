@@ -1,6 +1,6 @@
 # MusicalHyperlapse_SIBGRAPI_2021
 
-## This folder contains details about the Musical Hyperlapse audio-visual dataset.
+## This folder contains details about the Musical Hyperlapse audio-visual dataset and code.
 
 For copyright reasons, we cannot directly make available all the videos and songs, but we provide links to some of them here. For more information, please send email to dioognei@gmail.com.
 
